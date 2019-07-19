@@ -47,7 +47,7 @@ ba_track_id: 07529a93af5fa9f808261a1318c3aba4
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "By work, all things increase and grow!"
+sidebar-about-description: "By work, all things increase and grow!<br>努力上岸的失学儿童"
 sidebar-avatar: /xs-huxblog/img/avatar-xs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
