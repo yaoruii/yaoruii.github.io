@@ -1,5 +1,5 @@
 # Site settings
-title: Ruiy-blog
+title: Ruiyao-blog
 SEOTitle: 吉祥的博客 | ruiy Blog
 header-img: img/bg/bg_index.jpg
 email: ruiydut@gmail.com
@@ -47,7 +47,7 @@ ba_track_id: 07529a93af5fa9f808261a1318c3aba4
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "专注IT，乐于分享。"
+sidebar-about-description: "By work, all things increase and grow!"
 sidebar-avatar: /xs-huxblog/img/avatar-xs.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 # Featured Tags
