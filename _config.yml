@@ -1,18 +1,19 @@
 # Site settings
-title: Xs-Huxblog
-SEOTitle: Xs-HuxBlog
+title: Ruiy-blog
+SEOTitle: 吉祥的博客 | ruiy Blog
 header-img: img/bg/bg_index.jpg
-email: jsksxs360@163.com
-description: ""
+email: ruiydut@gmail.com
+description: "关于转码、科研、音乐与自由| 姚瑞 ruiyao | This is rui yao's personal blog "
 keyword: ""
 url: "https://yaoruii.github.io"              # your host, for absolute URL
 baseurl: ""                             # for example, '/blog' if your blog hosted on 'host/blog'
 
 # SNS settings
-douban_username: 138483825
-weibo_username: jsksxs360
+#douban_username: 138483825
+#weibo_username: jsksxs360
 zhihu_username: jsksxs360
-github_username: jsksxs360
+github_username: yaoruii
+twitter_username:   huxpro
 
 # Build settings
 # from 2016, 'pygments' is unsupported on GitHub Pages. Use 'rouge' for highlighting instead.
