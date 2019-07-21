@@ -4,7 +4,7 @@ title:      "安溥|不安它活在海水而我安于咸"
 subtitle:   "关于焦阿悬"
 date:       2019-07-21 18:00:00
 author:     "Ruiyao"
-header-img: "img/blog-anpu.jpg"
+header-img: "img/blog/blog-anpu.jpg"
 catalog: true
 tags:
     - Life
@@ -72,7 +72,7 @@ tags:
 <div>
 		    
   <br><b>你是我生命中最壮丽的记忆 我会记得这年代里你做的事情</b>。
-  
+ 
   玫瑰色的眼镜：戴上这个眼镜，看到的所有的事物都变成玫瑰的颜色。
   
   这是张悬写给所有的投身于各种社会运动遍体鳞伤并且不后悔的人。
