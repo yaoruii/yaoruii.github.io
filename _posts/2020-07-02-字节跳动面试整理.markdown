@@ -1,10 +1,10 @@
 ---
 layout:     post
-title:      "2020_07_12--字节跳动面试整理"
+title:      "2020/07/12-字节跳动面试整理"
 subtitle:   ""
 date:       2020_07_12
 author:     "Ruiyao"
-header-img: "img/blog/blog-anpu.jpg"
+header-img: "img/blog/面试.jpg"
 catalog: true
 tags:
     - 面经
